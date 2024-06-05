@@ -1,0 +1,18 @@
+# Site settings
+title: My Awesome Site
+description: A description of your site
+url: "https://username.github.io"
+
+# Build settings
+theme: minimal # Replace 'minima' with your desired theme
+markdown: kramdown
+
+# Optional settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
