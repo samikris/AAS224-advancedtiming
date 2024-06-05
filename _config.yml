@@ -4,7 +4,7 @@ description: A description of your site
 url: "https://samikris.github.io/AAS224-advancedtiming/"
 
 # Build settings
-theme: minimal # Replace 'minima' with your desired theme
+theme: minima # Replace 'minima' with your desired theme
 markdown: kramdown
 
 # Optional settings
