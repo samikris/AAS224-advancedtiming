@@ -1,10 +1,10 @@
 # Site settings
-title: My Awesome Site
-description: A description of your site
+title: Advanced Timing with the Crab Pulsar 
+description: This site contains the notebooks we used to extract TOAs and run PINT to develop our timing solution. 
 url: "https://samikris.github.io/AAS224-advancedtiming/"
 
 # Build settings
-theme: minima # Replace 'minima' with your desired theme
+theme: minimal # Replace 'minima' with your desired theme
 markdown: kramdown
 
 # Optional settings
