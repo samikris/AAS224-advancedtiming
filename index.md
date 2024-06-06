@@ -1,3 +1,3 @@
 # AAS 244 - Advanced Timing with the Crab Pulsar 
-# #[Extracting TOAs Notebook](https://github.com/samikris/AAS224-advancedtiming/blob/main/notebooks/updated_getting_TOAs_2024%20(1).ipynb)
-# #[PINT Notebook](https://github.com/samikris/AAS224-advancedtiming/blob/main/notebooks/timing_basic_mod.ipynb)
+# [Extracting TOAs Notebook](https://github.com/samikris/AAS224-advancedtiming/blob/main/notebooks/updated_getting_TOAs_2024%20(1).ipynb)
+# [PINT Notebook](https://github.com/samikris/AAS224-advancedtiming/blob/main/notebooks/timing_basic_mod.ipynb)
