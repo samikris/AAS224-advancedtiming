@@ -1,2 +1,2 @@
-# [Extracting TOAs Notebook](notebooks/updated_getting_TOAs_2024%20(1).ipynb)
-# [Timing Solution Notebook](notebooks/timing_basic_mod.ipynb)
+# [Extracting TOAs Notebook](https://github.com/samikris/AAS224-advancedtiming/blob/main/notebooks/updated_getting_TOAs_2024%20(1).ipynb)
+# [Timing Solution Notebook](https://github.com/samikris/AAS224-advancedtiming/blob/main/notebooks/timing_basic_mod.ipynb)
